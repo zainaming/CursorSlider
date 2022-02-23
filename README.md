@@ -25,7 +25,11 @@ yarn add cursorslider
 
 - Ios and Android Demo is there.
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79901119/155136021-4649b425-911e-42ce-9faf-eb896e646358.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/79901119/155265773-b5f48f58-c718-48c7-81e6-e23163df273f.gif)
+
+![Screen-Recording-2022-02-23-at-1 (2)](https://user-images.githubusercontent.com/79901119/155266413-d97f3f86-36ac-4122-982f-52d40d673e0d.gif)
+
+
 
 ## code
 
