@@ -1,0 +1,25 @@
+{
+  "name": "react-native-cursorslider",
+  "version": "1.1.1",
+  "description": "react native cursor slider package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cusor slider",
+    "atuoScrool slider",
+    "react-native slider",
+    "native slider",
+    "slider",
+    "carousel slider",
+    "npm slider",
+    "Image slider"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zainaming/CursorSlider"
+  },
+  "author": "ranazain",
+  "license": "ISC"
+}
